@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OrdersApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OrdersApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrdersApp-Debug-0a511ff8ad6ef75d16d2.json",
+					"name" : "OrdersApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OrdersApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrdersApp_autogen-Debug-36df9c8d867a771dc8c5.json",
+					"name" : "OrdersApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OrdersApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrdersApp_autogen_timestamp_deps-Debug-9a6788628ac41d05e8f8.json",
+					"name" : "OrdersApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/minazuki/CLionProjects/Yuliana/cmake-build-debug",
+		"source" : "/Users/minazuki/CLionProjects/Yuliana"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
